@@ -31,5 +31,8 @@
     "prettier-plugin-sort-imports": "^1.8.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
+  },
+  "peerDependencies": {
+    "@dchighs/dc-core": "^0.3.0"
   }
 }

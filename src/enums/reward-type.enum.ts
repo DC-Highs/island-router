@@ -1,0 +1,13 @@
+export enum RewardType {
+    Chest = "chest",
+    Dragon = "dragon",
+    Building = "building",
+    Gold = "gold",
+    Gem = "gem",
+    Food = "food",
+    HabitatToken = "habitat_token",
+    IslandCoin = "island_coin",
+    EventPoints = "event_points",
+    DragonOrbs = "dragon_orbs",
+    RunnerIslandEnergy = "runner_island_energy",
+}
