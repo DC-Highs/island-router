@@ -1,6 +1,6 @@
 {
   "name": "@dchighs/island-router",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "commonjs",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -33,6 +33,6 @@
     "typescript": "^5.9.3"
   },
   "peerDependencies": {
-    "@dchighs/dc-core": "^0.3.0"
+    "@dchighs/dc-core": "^0.4.2"
   }
 }
